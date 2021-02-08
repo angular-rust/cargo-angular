@@ -1,1 +1,1 @@
-# cargo-angular
+# cargo-angular github pages
